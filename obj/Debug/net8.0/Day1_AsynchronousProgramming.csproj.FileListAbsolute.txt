@@ -1,0 +1,14 @@
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.AssemblyInfoInputs.cache
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.AssemblyInfo.cs
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.csproj.CoreCompileInputs.cache
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\bin\Debug\net8.0\Day1_AsynchronousProgramming.exe
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\bin\Debug\net8.0\Day1_AsynchronousProgramming.deps.json
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\bin\Debug\net8.0\Day1_AsynchronousProgramming.runtimeconfig.json
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\bin\Debug\net8.0\Day1_AsynchronousProgramming.dll
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\bin\Debug\net8.0\Day1_AsynchronousProgramming.pdb
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.dll
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\refint\Day1_AsynchronousProgramming.dll
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.pdb
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\Day1_AsynchronousProgramming.genruntimeconfig.cache
+D:\Internship\Code\Tasks\Day1_AsynchronousProgramming\Day1_AsynchronousProgramming\obj\Debug\net8.0\ref\Day1_AsynchronousProgramming.dll
